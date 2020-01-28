@@ -5,3 +5,9 @@ body{
 h1{
 	color: #eee;
 }
+
+h2{
+	color: #eee;
+	padding: 10px;
+	border: solid 2px black;
+}
